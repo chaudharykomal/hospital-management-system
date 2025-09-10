@@ -15,7 +15,7 @@
  * - \ref CROW_BP_CATCHALL_ROUTE
  */
 
-#pragma once
+#pragma nce
 
 #include <chrono>
 #include <string>
